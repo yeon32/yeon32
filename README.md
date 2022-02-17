@@ -10,7 +10,7 @@
 
 ✏ Stack  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src=https://img.shields.io/bage/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white">
+<img src=https://img.shields.io/bage/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
 
 
 
