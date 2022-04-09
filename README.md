@@ -12,7 +12,7 @@
 - ✨ I majored in Computer Science
 - 📫 How to reach me : kjy980302@naver.com
 
-<a href="https://32jyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
+
 <a href="https://github.com/yeon32" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/32jyeon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
