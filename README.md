@@ -6,15 +6,7 @@
 
 
 ### Hi there 👋, my name is Jeongyeon Kim
-#### I wanna be a developer
 
-- 🌱 I'm currently learning html, css, javascript and React
-- ✨ I majored in Computer Science
-- 📫 How to reach me : kjy980302@naver.com
-
-
-<a href="https://github.com/yeon32" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
-<a href="https://www.instagram.com/32jyeon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
