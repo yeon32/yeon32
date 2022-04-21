@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=AAEBAA&section=header&text=JeongYeon's%20github&fontColor=ffffff)
 
-### Hi there 👋
+
 
 
 <div align=center><h1>STACKS</h1></div>
