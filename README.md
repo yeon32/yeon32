@@ -4,7 +4,7 @@
   
 <br/> 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=BEF5BE&section=header&text=JeongYeon's%20github&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=B4F0B4&section=header&text=JeongYeon's%20github&fontColor=ffffff)
 
 ### Hi there 👋
 
