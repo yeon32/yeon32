@@ -6,7 +6,7 @@
  
  ![moana](https://user-images.githubusercontent.com/93962252/167832385-ddabdbcb-df14-4de7-be9f-96b2ab2aac88.gif)
 
- ## 🐬 Tech Stack 🐬
+ 🐬 Tech Stack 🐬
  
  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
@@ -20,8 +20,8 @@
  
  <br/>
  
-  ## 🐬 Cowork Tools 🐬
- <p>
+ 🐬 Cowork Tools 🐬
+
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
